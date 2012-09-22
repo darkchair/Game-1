@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Battle.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="192" topLine="3" />
+	</File>
+	<File name="Battle.h" open="1" top="0" tabpos="8">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="CAnimation.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="1231" topLine="49" />
+	</File>
+	<File name="CAnimation.h" open="0" top="0" tabpos="16">
+		<Cursor position="318" topLine="3" />
+	</File>
+	<File name="CApp.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="961" topLine="34" />
+	</File>
+	<File name="CApp.h" open="1" top="0" tabpos="1">
+		<Cursor position="1966" topLine="87" />
+	</File>
+	<File name="CApp_OnCleanup.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="CApp_OnEvent.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="7861" topLine="96" />
+	</File>
+	<File name="CApp_OnInit.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1968" topLine="0" />
+	</File>
+	<File name="CApp_OnLoop.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="696" topLine="0" />
+	</File>
+	<File name="CApp_OnRender.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1466" topLine="0" />
+	</File>
+	<File name="CEvent.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="1555" topLine="36" />
+	</File>
+	<File name="CEvent.h" open="0" top="0" tabpos="15">
+		<Cursor position="505" topLine="9" />
+	</File>
+	<File name="CSurface.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="676" topLine="9" />
+	</File>
+	<File name="CSurface.h" open="0" top="0" tabpos="13">
+		<Cursor position="308" topLine="0" />
+	</File>
+	<File name="Move.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="448" topLine="3" />
+	</File>
+	<File name="Move.h" open="1" top="0" tabpos="14">
+		<Cursor position="148" topLine="40" />
+	</File>
+	<File name="Moves.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="20" topLine="0" />
+	</File>
+	<File name="Moves.h" open="0" top="0" tabpos="16">
+		<Cursor position="52" topLine="0" />
+	</File>
+	<File name="Player.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="360" topLine="9" />
+	</File>
+	<File name="Player.h" open="1" top="0" tabpos="10">
+		<Cursor position="257" topLine="12" />
+	</File>
+	<File name="Pokemon.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="208" topLine="24" />
+	</File>
+	<File name="Pokemon.h" open="1" top="0" tabpos="12">
+		<Cursor position="280" topLine="13" />
+	</File>
+</CodeBlocks_layout_file>

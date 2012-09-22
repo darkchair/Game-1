@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1338787606 source:c:\users\ian\documents\pokemonclone\capp_oncleanup.cpp
+	"CApp.h"
+
+1347941964 c:\users\ian\documents\pokemonclone\capp.h
+	<SDL/SDL_ttf.h>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	"CEvent.h"
+	"CSurface.h"
+	"CAnimation.h"
+	"Battle.h"
+
+1347942073 source:c:\users\ian\documents\pokemonclone\capp_onevent.cpp
+	"CApp.h"
+
+1347941964 source:c:\users\ian\documents\pokemonclone\capp_oninit.cpp
+	"CApp.h"
+
+1347858031 source:c:\users\ian\documents\pokemonclone\capp_onloop.cpp
+	"CApp.h"
+
+1347943793 source:c:\users\ian\documents\pokemonclone\capp_onrender.cpp
+	"CApp.h"
+
+1347941964 source:c:\users\ian\documents\pokemonclone\capp.cpp
+	"CApp.h"
+
+1338422461 c:\users\ian\documents\pokemonclone\csurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1338422461 source:c:\users\ian\documents\pokemonclone\csurface.cpp
+	"CSurface.h"
+
+1334632151 c:\users\ian\documents\pokemonclone\cevent.h
+	<SDL/SDL.h>
+
+1338833582 source:c:\users\ian\documents\pokemonclone\cevent.cpp
+	"CEvent.h"
+
+1347858364 source:c:\users\ian\documents\pokemonclone\battle.cpp
+	"Battle.h"
+
+1344631274 c:\users\ian\documents\pokemonclone\battle.h
+	"Player.h"
+	"Pokemon.h"
+	"Moves.h"
+
+1344627583 c:\users\ian\documents\pokemonclone\player.h
+	"Pokemon.h"
+
+1344720418 c:\users\ian\documents\pokemonclone\pokemon.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Move.h"
+	"Moves.h"
+
+1344914651 source:c:\users\ian\documents\pokemonclone\pokemon.cpp
+	"Pokemon.h"
+
+1344627626 source:c:\users\ian\documents\pokemonclone\player.cpp
+	"Player.h"
+
+1343171091 c:\users\ian\documents\pokemonclone\move.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1345077976 source:c:\users\ian\documents\pokemonclone\move.cpp
+	"Move.h"
+
+1340737689 source:c:\users\ian\documents\pokemonclone\moves.cpp
+	"Moves.h"
+
+1340737701 c:\users\ian\documents\pokemonclone\moves.h
+	"Move.h"
+
+1341336730 source:c:\users\ian\documents\pokemonclone\canimation.cpp
+	"CAnimation.h"
+
+1341336788 c:\users\ian\documents\pokemonclone\canimation.h
+	<SDL/SDL.h>
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\begin_code.h
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\close_code.h
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1308276485 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1307645892 c:\program files\sdl\sdl-1.2.14\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+

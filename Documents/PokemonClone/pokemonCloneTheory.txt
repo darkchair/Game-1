@@ -1,0 +1,136 @@
+Electric - 	Galvanic Initiative	+priority
+			Penetration		+defensive, null to 	support
+		
+
+Metal -		Solid Metal		+defense
+			Haymaker			+support, null to 	offensive
+
+
+Ground - 		Traps
+			Counter			+offensive, null to 										defensive
+
+
+
+
+
+Fire - 	Power Flare		+damage, skip next turn
+		
+
+
+Wood - 	Stack Armor
+
+
+
+Water - 	Stave off/Pacify			evade damage, lower attack
+		Soothe				+heal ally
+
+
+
+
+Martial -	Bounce Back		+force switch
+		Play Cool			-damage, resist defensive
+
+
+Spirit - 	Fake Out			+support, -offensive
+
+
+Mental -	DOTs
+
+
+
+
+	id:multiHit?:specialAttack?:Power:Type:Priority
+
+//---------------------- Martial
+
+Bounce Back	00:0:0:07:0:2	forces opponent to switch 	pokemon
+
+Play Cool		01:0:0:06:0:2	-damage, resist support attacks
+
+Beatdown		02:0:0:10:0:2	increases damage subsequently, 	must keep using this attack
+
+Strike		03:0:0:10:0:2	regular attack
+
+//---------------------- Mental
+
+Corrput		04:0:0:03:1:2	-damage, poisons target
+
+Will Away		05:0:0:06:1:2	-damage, resist defensive 	attacks
+
+Taunt			06:0:0:05:1:2	-damage, forces opponent to use 	random move
+
+Focus			07:0:0:10:1:2	regular attack
+
+//---------------------- Spirit
+
+Fake Out		08:0:0:06:2:2	-damage, resist offensive 	attacks
+
+Enfeeble		09:0:0:06:2:2	-damage, stun support types
+
+Blink			10:0:0:12:2:1	disappear, do damage next turn
+
+Baffle		11:0:0:10:2:2	regular attack
+
+//---------------------- Fire
+
+
+Power Flare	12:0:0:15:3:2	+damage, skip next turn
+
+Blaze Off		13:0:0:06:3:2	-damage, negate defensive moves
+
+Power Bomb		14:0:0:17:3:2	does big damage next turn
+
+Blast		 	15:0:0:10:3:2	regular attack
+
+//---------------------- Water
+
+Soothe		16:0:0:00:4:2	heals ally
+
+Stave Off		17:0:0:06:4:2	-damage, negate offensive moves
+
+Correct		18:0:0:03:4:2	negates all battlefield effects
+
+Pump			19:0:0:10:4:2	regular attack
+
+//----------------------- Wood
+
+Bastion		20:0:0:03:5:2	-damage, raises team defense
+
+Ward Off		21:0:0:06:5:2	-damage, negate support moves
+
+Topple		22:0:0:10:5:2	heals status effects, -damage if 	dealt damage
+
+Smack			23:0:0:10:5:2	regular attack
+
+//---------------------- Electric
+
+Light Speed	24:0:0:08:6:1	attack with priority
+
+Piercing Volt	25:0:0:10:6:2	double damage to defensive, none 	to support
+
+Reroute		26:0:0:10:6:0	if oppoent switches, damage 	before the switch, if no switch less damage
+
+Charge		27:0:0:10:6:2	regular attack
+
+//----------------------- Ground
+
+Spikes		28:0:0:03:7:2	enemies take damage when 	switching
+
+Preperation	29:0:0:10:7:2	double damage to offensive, none 	to defensive
+
+Parry			30:0:0:00:7:4   deals 1.5x damage back of 	opponents damage
+
+Shake			31:0:0:10:7:2	regular attack
+
+//----------------------- Metal
+
+Barter		32:0:0:05:8:2	increases defense
+
+Haymaker		33:0:0:10:8:2	double damage to support, none 	to offensive
+
+Junk			34:0:0:13:8:2	deals damage to self and 	opponent, priority?
+
+Smash			35:0:0:10:8:2	regular attack
+
+
+

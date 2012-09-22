@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1338787606 source:c:\users\ian\documents\pokemonclone\capp_oncleanup.cpp
+	"CApp.h"
+
+1341176793 c:\users\ian\documents\pokemonclone\capp.h
+	<SDL/SDL_ttf.h>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	"CEvent.h"
+	"CSurface.h"
+	"CAnimation.h"
+	"Battle.h"
+
+1341177610 source:c:\users\ian\documents\pokemonclone\capp_onevent.cpp
+	"CApp.h"
+
+1341177506 source:c:\users\ian\documents\pokemonclone\capp_oninit.cpp
+	"CApp.h"
+
+1341168847 source:c:\users\ian\documents\pokemonclone\capp_onloop.cpp
+	"CApp.h"
+
+1341176967 source:c:\users\ian\documents\pokemonclone\capp_onrender.cpp
+	"CApp.h"
+
+1341176793 source:c:\users\ian\documents\pokemonclone\capp.cpp
+	"CApp.h"
+
+1338422461 c:\users\ian\documents\pokemonclone\csurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1338422461 source:c:\users\ian\documents\pokemonclone\csurface.cpp
+	"CSurface.h"
+
+1334632151 c:\users\ian\documents\pokemonclone\cevent.h
+	<SDL/SDL.h>
+
+1338833582 source:c:\users\ian\documents\pokemonclone\cevent.cpp
+	"CEvent.h"
+
+1340738897 source:c:\users\ian\documents\pokemonclone\battle.cpp
+	"Battle.h"
+	"Player.h"
+	"Pokemon.h"
+
+1340647945 c:\users\ian\documents\pokemonclone\battle.h
+	"Player.h"
+	"Pokemon.h"
+	"Moves.h"
+
+1339471667 c:\users\ian\documents\pokemonclone\player.h
+	"Pokemon.h"
+
+1340747141 c:\users\ian\documents\pokemonclone\pokemon.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Move.h"
+	"Moves.h"
+
+1339648742 source:c:\users\ian\documents\pokemonclone\pokemon.cpp
+	"Pokemon.h"
+
+1339469094 source:c:\users\ian\documents\pokemonclone\player.cpp
+	"Player.h"
+
+1340737701 c:\users\ian\documents\pokemonclone\move.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1340737808 source:c:\users\ian\documents\pokemonclone\move.cpp
+	"Move.h"
+
+1340737689 source:c:\users\ian\documents\pokemonclone\moves.cpp
+	"Moves.h"
+
+1340737701 c:\users\ian\documents\pokemonclone\moves.h
+	"Move.h"
+
+1339876344 source:c:\users\ian\documents\pokemonclone\canimation.cpp
+	"CAnimation.h"
+
+1339780838 c:\users\ian\documents\pokemonclone\canimation.h
+	<SDL/SDL.h>
+
